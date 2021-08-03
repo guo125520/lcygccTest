@@ -10,4 +10,7 @@ public class RabbitmqdemoApplication {
         SpringApplication.run(RabbitmqdemoApplication.class, args);
     }
 
+//分支20210803_branch
+
+
 }
